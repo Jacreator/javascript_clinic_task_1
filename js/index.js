@@ -1,7 +1,7 @@
 function getUrl(expression) {
   switch (expression) {
     case 'gitProfile':
-      window.open('https://https://github.com/Jacreator', '_blank');
+      window.open('https://github.com/Jacreator', '_blank');
       break;
     case 'gitRepos1':
       window.open(
